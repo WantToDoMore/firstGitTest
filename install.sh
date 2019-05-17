@@ -259,6 +259,6 @@ install_sprov-ui() {
 
 echo "开始安装"
 install_java
-install_v2ray
+#install_v2ray
 close_firewall
 install_sprov-ui
